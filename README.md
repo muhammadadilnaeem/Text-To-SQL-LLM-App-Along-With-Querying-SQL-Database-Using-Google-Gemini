@@ -56,7 +56,7 @@ We welcome contributions! If you have suggestions, ideas, or bug fixes, feel fre
 
 ## **License 📜**
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/muhammadadilnaeem/Text-To-SQL-LLM-App-Along-With-Querying-SQL-Database-Using-Google-Gemini/blob/main/LICENSE) file for more details.
 
 ## **Acknowledgements 🙏**
 
